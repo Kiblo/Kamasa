@@ -1,0 +1,2 @@
+# Kamasa
+bot rp
